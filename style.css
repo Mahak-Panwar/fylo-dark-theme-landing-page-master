@@ -1,0 +1,7 @@
+
+.intro {
+ background-image: url(images/bg-curvy-desktop.svg);
+  background-repeat: no-repeat;            /* repeat band karne ke liye */
+  background-size: cover;                  /* poore background mai fit karne ke liye */
+  background-position: center;
+}
