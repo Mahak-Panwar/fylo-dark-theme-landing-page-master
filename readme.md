@@ -16,8 +16,8 @@ It's the solution code fylo dark theme landing page challenge.I built this solut
 
 ### Links
 
-- Solution URL: https://github.com/Mahak-Panwar/clipboard-landing-page-master.git
-- Live Site URL: https://mahak-panwar.github.io/clipboard-landing-page-master/
+- Solution URL: https://github.com/Mahak-Panwar/fylo-dark-theme-landing-page-master.git
+- Live Site URL: https://mahak-panwar.github.io/fylo-dark-theme-landing-page-master/
 
 ## My Process
 
